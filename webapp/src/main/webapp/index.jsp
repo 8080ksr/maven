@@ -19,7 +19,7 @@ h1
 }
 h5
 {
-  text-align: justify;
+  text-align: left;
 }
 </style>
   </div>
