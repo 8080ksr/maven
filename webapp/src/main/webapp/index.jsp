@@ -11,6 +11,12 @@
     <input type="password" placeholder="Enter Password" name="psw" required>
 <br></br>
    <button type="submit">Login</button>
+ <div class="w3-container">
+  <h2>Borders</h2>
+
+  <div class="w3-panel w3-border">
+    <p>I have borders.</p>
+  </div>
 <style>
 h1
 {
